@@ -82,7 +82,7 @@ The visual system emphasizes restraint:
 * Generous whitespace
 * No spring or flashy transitions
 * Subtle motion curves (easeInOut, 2.2s duration)
-* There is My Preview of my Playground 👇
+* My Preview 👇
 
 ![WhatsApp Image 2026-02-20 at 11 44 26 PM (2)](https://github.com/user-attachments/assets/20d4109a-5bcb-4727-8ac7-43a2ad679712)
 ![WhatsApp Image 2026-02-20 at 11 44 26 PM (1)](https://github.com/user-attachments/assets/01b926e5-7750-422a-831f-fc21eff6cb92)
