@@ -109,13 +109,6 @@ Built for Swift Playgrounds.
 
 ## 🏆 Swift Student Challenge
 
-This project was created as a submission for the **Apple Swift Student Challenge**, demonstrating:
-
-* User-centered design
-* Animation systems
-* Accessibility awareness
-* Modular SwiftUI architecture
-* Focused three-minute experience
-
+This project was created as a submission for the **Apple Swift Student Challenge**.
 ---
        
