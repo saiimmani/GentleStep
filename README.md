@@ -1,4 +1,4 @@
-# 🌿 GentleStep
+# 🦶👣 GentleStep
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apple-Swift%20Student%20Challenge-black?logo=apple&logoColor=white" />
